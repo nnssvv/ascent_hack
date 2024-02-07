@@ -1,0 +1,309 @@
+{
+    "metrics": {
+      "Third Quarter": {
+        "2022": {
+          "Net interest income": {
+            "amount": 12563,
+            "percentage_change": 18
+          },
+          "Non-interest revenue": {
+            "amount": 5945,
+            "percentage_change": -12
+          },
+          "Revenues, net of interest expense": {
+            "amount": 18508,
+            "percentage_change": 6
+          },
+          "Operating expenses": {
+            "amount": 12749,
+            "percentage_change": 8
+          },
+          "Provisions for credit losses and for benefits and claims": {
+            "amount": 1365,
+            "percentage_change": "NM"
+          },
+          "Income from continuing operations before income taxes": {
+            "amount": 4394,
+            "percentage_change": -25
+          },
+          "Income taxes": {
+            "amount": 879,
+            "percentage_change": -26
+          },
+          "Income from continuing operations": {
+            "amount": 3515,
+            "percentage_change": -25
+          },
+          "Income (loss) from discontinued operations, net of taxes": {
+            "amount": -6,
+            "percentage_change": "NM"
+          },
+          "Net income before attribution to noncontrolling interests": {
+            "amount": 3509,
+            "percentage_change": -25
+          },
+          "Net income attributable to noncontrolling interests": {
+            "amount": 30,
+            "percentage_change": 25
+          },
+          "Citigroup’s net income": {
+            "amount": 3479,
+            "percentage_change": -25
+          },
+          "Earnings per share": {
+            "Basic": {
+              "Income from continuing operations": {
+                "amount": 1.64,
+                "percentage_change": -24
+              },
+              "Net income": {
+                "amount": 1.64,
+                "percentage_change": -24
+              }
+            },
+            "Diluted": {
+              "Income from continuing operations": {
+                "amount": 1.63,
+                "percentage_change": -24
+              },
+              "Net income": {
+                "amount": 1.63,
+                "percentage_change": -24
+              }
+            }
+          },
+          "Dividends declared per common share": 0.51,
+          "Common dividends": {
+            "amount": 1001,
+            "percentage_change": -4
+          },
+          "Preferred dividends": {
+            "amount": 277,
+            "percentage_change": 4
+          },
+          "Common share repurchases": {
+            "amount": 0,
+            "percentage_change": "NM"
+          }
+        },
+        "2021(1)": {
+          "Net interest income": {
+            "amount": 10691
+          },
+          "Non-interest revenue": {
+            "amount": 6756
+          },
+          "Revenues, net of interest expense": {
+            "amount": 17447
+          },
+          "Operating expenses": {
+            "amount": 11777
+          },
+          "Provisions for credit losses and for benefits and claims": {
+            "amount": -192
+          },
+          "Income from continuing operations before income taxes": {
+            "amount": 5862
+          },
+          "Income taxes": {
+            "amount": 1193
+          },
+          "Income from continuing operations": {
+            "amount": 4669
+          },
+          "Income (loss) from discontinued operations, net of taxes": {
+            "amount": -1
+          },
+          "Net income before attribution to noncontrolling interests": {
+            "amount": 4668
+          },
+          "Net income attributable to noncontrolling interests": {
+            "amount": 24
+          },
+          "Citigroup’s net income": {
+            "amount": 4644
+          },
+          "Earnings per share": {
+            "Basic": {
+              "Income from continuing operations": {
+                "amount": 2.17
+              },
+              "Net income": {
+                "amount": 2.17
+              }
+            },
+            "Diluted": {
+              "Income from continuing operations": {
+                "amount": 2.15
+              },
+              "Net income": {
+                "amount": 2.15
+              }
+            }
+          },
+          "Common dividends": {
+            "amount": 1040
+          },
+          "Preferred dividends": {
+            "amount": 266
+          },
+          "Common share repurchases": {
+            "amount": 3000
+          }
+        }
+      },
+      "Nine Months": {
+        "2022": {
+          "Net interest income": {
+            "amount": 35398,
+            "percentage_change": 12
+          },
+          "Non-interest revenue": {
+            "amount": 21934,
+            "percentage_change": -5
+          },
+          "Revenues, net of interest expense": {
+            "amount": 57332,
+            "percentage_change": 4
+          },
+          "Operating expenses": {
+            "amount": 38307,
+            "percentage_change": 11
+          },
+          "Provisions for credit losses and for benefits and claims": {
+            "amount": 3394,
+            "percentage_change": "NM"
+          },
+          "Income from continuing operations before income taxes": {
+            "amount": 15631,
+            "percentage_change": -34
+          },
+          "Income taxes": {
+            "amount": 3002,
+            "percentage_change": -36
+          },
+          "Income from continuing operations": {
+            "amount": 12629,
+            "percentage_change": -33
+          },
+          "Income (loss) from discontinued operations, net of taxes": {
+            "amount": -229,
+            "percentage_change": "NM"
+          },
+          "Net income before attribution to noncontrolling interests": {
+            "amount": 12400,
+            "percentage_change": -34
+          },
+          "Net income attributable to noncontrolling interests": {
+            "amount": 68,
+            "percentage_change": 1
+          },
+          "Citigroup’s net income": {
+            "amount": 12332,
+            "percentage_change": -34
+          },
+          "Earnings per share": {
+            "Basic": {
+              "Income from continuing operations": {
+                "amount": 5.99,
+                "percentage_change": -31
+              },
+              "Net income": {
+                "amount": 5.87,
+                "percentage_change": -33
+              }
+            },
+            "Diluted": {
+              "Income from continuing operations": {
+                "amount": 5.95,
+                "percentage_change": -31
+              },
+              "Net income": {
+                "amount": 5.84,
+                "percentage_change": -32
+              }
+            }
+          },
+          "Dividends declared per common share": 1.53,
+          "Common dividends": {
+            "amount": 3025,
+            "percentage_change": -5
+          },
+          "Preferred dividends": {
+            "amount": 794,
+            "percentage_change": -2
+          },
+          "Common share repurchases": {
+            "amount": 3250,
+            "percentage_change": -57
+          }
+        },
+        "2021(1)": {
+          "Net interest income": {
+            "amount": 31675
+          },
+          "Non-interest revenue": {
+            "amount": 23192
+          },
+          "Revenues, net of interest expense": {
+            "amount": 54867
+          },
+          "Operating expenses": {
+            "amount": 34661
+          },
+          "Provisions for credit losses and for benefits and claims": {
+            "amount": -3313
+          },
+          "Income from continuing operations before income taxes": {
+            "amount": 23519
+          },
+          "Income taxes": {
+            "amount": 4680
+          },
+          "Income from continuing operations": {
+            "amount": 18839
+          },
+          "Income (loss) from discontinued operations, net of taxes": {
+            "amount": 7
+          },
+          "Net income before attribution to noncontrolling interests": {
+            "amount": 18846
+          },
+          "Net income attributable to noncontrolling interests": {
+            "amount": 67
+          },
+          "Citigroup’s net income": {
+            "amount": 18779
+          },
+          "Earnings per share": {
+            "Basic": {
+              "Income from continuing operations": {
+                "amount": 8.70
+              },
+              "Net income": {
+                "amount": 8.70
+              }
+            },
+            "Diluted": {
+              "Income from continuing operations": {
+                "amount": 8.64
+              },
+              "Net income": {
+                "amount": 8.65
+              }
+            }
+          },
+          "Common dividends": {
+            "amount": 3176
+          },
+          "Preferred dividends": {
+            "amount": 811
+          },
+          "Common share repurchases": {
+            "amount": 7600
+          }
+        }
+      }
+    }
+  }
+  
